@@ -21,8 +21,7 @@ namespace TestAPI.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
- GaelBranch
+            
             modelBuilder.Entity("TestAPI.Models.Event", b =>
                 {
                     b.Property<int>("Id")
@@ -57,7 +56,6 @@ namespace TestAPI.Migrations
                 });
 
 
- main
             modelBuilder.Entity("TestAPI.Models.Product", b =>
                 {
                     b.Property<int>("Id")
