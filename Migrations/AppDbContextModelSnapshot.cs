@@ -22,6 +22,7 @@ namespace TestAPI.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+ GaelBranch
             modelBuilder.Entity("TestAPI.Models.Event", b =>
                 {
                     b.Property<int>("Id")
@@ -55,6 +56,8 @@ namespace TestAPI.Migrations
                     b.ToTable("Events");
                 });
 
+
+ main
             modelBuilder.Entity("TestAPI.Models.Product", b =>
                 {
                     b.Property<int>("Id")
