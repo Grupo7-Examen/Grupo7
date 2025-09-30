@@ -6,4 +6,9 @@ namespace TestAPI.Data;
 public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {
     public DbSet<Product> Products { get; set; }
+ GaelBranch
+    public DbSet<Event> Events { get; set; } = null!;
+
+
+ main
 }
