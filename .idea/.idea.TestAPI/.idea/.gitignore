@@ -2,10 +2,21 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
+ GaelBranch
+ HEAD
+/projectSettingsUpdater.xml
+/.idea.TestAPI.iml
+/contentModel.xml
+/modules.xml
+
+main
 /contentModel.xml
 /modules.xml
 /projectSettingsUpdater.xml
 /.idea.TestAPI.iml
+ GaelBranch
+ 2e6e7b5a374b33f511789c533fc0fde9ecdba281
+ main
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
