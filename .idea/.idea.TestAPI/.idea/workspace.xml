@@ -7,7 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e345cb8-a0b1-4ad2-9ec0-dd0452790297" name="Changes" comment="Estoy subiendo nuevamente los codigos, models, controllers, data, migrations" />
+    <list default="true" id="8e345cb8-a0b1-4ad2-9ec0-dd0452790297" name="Changes" comment="Estoy subiendo nuevamente los codigos, models, controllers, data, migrations">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TestAPI.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,23 +23,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "FlaviaLozadaR"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FlaviaLozadaR&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Grupo7-Examen/Grupo7.git",
-    "accountId": "b59bb851-f777-437f-9860-fb2aa44f4997"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Grupo7-Examen/Grupo7.git&quot;,
+    &quot;accountId&quot;: &quot;b59bb851-f777-437f-9860-fb2aa44f4997&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9bff8ecc48492fd763ec12f60c168601cc619d09810a94a1238e18866ede879/ProviderCodeGeneratorDependencies.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="33OTIKxmoZvR39H8s86TXXpqPpl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,18 +51,37 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Launch Settings Profile.TestAPI.executor": "Run",
+    "Azure - Web App.Publish TestAPI to Azure.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Launch Settings Profile.TestAPI">
+    <configuration name="Publish TestAPI to Azure" type="AzureWebAppDeploy">
+      <option name="appServicePlanName" value="asp-app-250929233955" />
+      <option name="appServicePlanResourceGroupName" value="rg-app-250929233955" />
+      <option name="operatingSystem" value="Windows" />
+      <option name="pricingSize" value="F1" />
+      <option name="pricingTier" value="Free" />
+      <option name="projectConfiguration" value="Release" />
+      <option name="projectPlatform" value="Any CPU" />
+      <option name="publishableProjectPath" value="$PROJECT_DIR$/TestAPI.csproj" />
+      <option name="region" value="eastus2" />
+      <option name="resourceGroupName" value="rg-app-250929233955" />
+      <option name="subscriptionId" value="9c9cf0a9-670e-4c7a-acac-0c2a54941469" />
+      <option name="webAppName" value="app-250929233955" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestAPI" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/TestAPI.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net9.0" />
@@ -80,7 +106,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759187053247</updated>
-      <workItem from="1759187070418" duration="5886000" />
+      <workItem from="1759187070418" duration="9244000" />
+      <workItem from="1759199784249" duration="1914000" />
+      <workItem from="1759201941280" duration="2515000" />
     </task>
     <servers />
   </component>
